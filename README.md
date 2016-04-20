@@ -1,6 +1,12 @@
 # RecipeBook-CS150
 A project I wrote for my Data Structures and Algorithms class in the spring of 2015.
 
+## Authors:
+Matthew Beck
+
+## How To Run:
+Download the zip of this repository, and run InputOutput.java.
+
 ## The Project:
 The goal for this problem was to design, implement, and evaluate an electronic cookbook, used to organize recipes and prepare meals. This program supports the following operations:
   - Adding recipes
